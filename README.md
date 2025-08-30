@@ -62,18 +62,9 @@ while (true) {
 
 ## Quick Start
 
-### Method 1: GitHub Pages (Recommended)
-1. Visit the [live demo](https://your-username.github.io/llm-agent-poc)
-2. Select your LLM provider (OpenAI, Anthropic, or Gemini)
-3. Enter your API key
-4. Start chatting with the agent!
-
-### Method 2: Local Development
+### Local Development
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/llm-agent-poc.git
-   cd llm-agent-poc
-   ```
+
 
 2. Serve the files locally:
    ```bash
